@@ -1,4 +1,4 @@
-# Ontovis
+# Ontovis for OpenRefine
 
 This project add visualization of individual for RDF graphs
 
